@@ -1,6 +1,3 @@
-prac_repo
-=========
+Changing this text file now
 
-practice repository
-
-just learning how to not ruin everything.
+Try to pull it?
